@@ -25,7 +25,7 @@ will be able to read the content.
 
 Also, I've created a version of Dr. Nim (ESR 1960's mechanical computer game) as a 
 proof-of-concept for accessing the request parameters and content. That code is 
-available in my 2.11BSD-Dr.Nim repository.
+available in my https://github.com/DaveRead/2.11BSD-Dr.Nim repository.
 
 ** Key Update Notes from Chase Covello (Aug, 2019)
 
