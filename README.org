@@ -2,6 +2,8 @@
 
 A web server for 2.11 BSD running on the PiDP-11/70
 
+#+html: <p><img src="pidp11-cropped-small.png" width="287" /></p>
+
 The original thread discussing the server can be found at https://groups.google.com/g/pidp-11/c/nE5W6wAEIxA/m/7mGpfjAYAwAJ
 
 The current version:
